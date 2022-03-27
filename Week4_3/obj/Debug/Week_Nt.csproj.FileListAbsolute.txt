@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\bin\Debug\Week_Nt.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\bin\Debug\Week_Nt.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\bin\Debug\Week_Nt.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\obj\Debug\Week_Nt.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\obj\Debug\Week_Nt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\obj\Debug\Week_Nt.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\obj\Debug\Week_Nt.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\obj\Debug\Week_Nt.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\obj\Debug\Week_Nt.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\obj\Debug\Week_Nt.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Week_Nt\obj\Debug\Week_Nt.pdb
